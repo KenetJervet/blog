@@ -70,5 +70,5 @@ theme: alpha-dust
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://KenetJervet@github.com/KenetJervet/KenetJervet.github.io.git
+  repo: https://y-usuzumi@github.com/y-usuzumi/y-usuzumi.github.io.git
   branch: master
