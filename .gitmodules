@@ -1,3 +1,6 @@
 [submodule "themes/alpha-dust"]
 	path = themes/alpha-dust
 	url = https://github.com/klugjo/hexo-theme-alpha-dust.git
+[submodule "themes/next"]
+	path = themes/next
+	url = https://github.com/iissnan/hexo-theme-next
