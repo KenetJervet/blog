@@ -7,8 +7,9 @@ title: Ratina
 subtitle: The fictional world where amazing happens
 description:
 author: Yukio Usuzumi
-language: zh-cn
+language: zh-Hans
 timezone:
+duoshuo_shortname: ratina-blog
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -64,7 +65,7 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 # theme: landscape
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

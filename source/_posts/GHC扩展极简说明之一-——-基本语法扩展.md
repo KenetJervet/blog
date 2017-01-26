@@ -1,7 +1,9 @@
 ---
 title: GHC扩展极简说明之一 —— 基本语法扩展
 date: 2017-01-22 23:19:28
-tags: Haskell,GHC扩展
+tags:
+  - Haskell
+  - GHC扩展
 ---
 
 ## PostfixOperators
